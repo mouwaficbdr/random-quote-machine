@@ -4,3 +4,74 @@
   box-sizing: border-box;
 }
 
+body{
+  font-family: "Inter", sans-serif;
+}
+
+button{
+  font-family: "Inter", sans-serif;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:active{
+  transform: translateY(3px);
+}
+
+main{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+#quote-box{
+  background-color: white;
+  padding: 30px;
+  border-radius: 5px;
+  max-width: 550px;
+}
+
+#text{
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  position: relative;
+}  
+
+
+#author{
+  margin-top:  20px;
+  text-align: right;
+}  
+
+.buttons{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.socials-buttons{
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  border: none;
+  height: 40px;
+}
+
+.twitter-icon{
+  width: 20px;
+}
+
+#new-quote{
+  padding: 0 15px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+}
+
