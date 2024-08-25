@@ -4,6 +4,8 @@
 
 This project is a simple quote generator application that displays a random quote along with its author. Users can generate a new quote and share it on Twitter.
 
+**[Live Version of the Project](https://random-quote-machine-pi-olive.vercel.app/)**
+
 ## Features
 
 - Displays a random quote with its author.
