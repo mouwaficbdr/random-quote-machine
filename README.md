@@ -33,7 +33,6 @@ The design is responsive, with a maximum width of 550px for the main container. 
 
 ## Future Development
 
-- Implement a quote API to fetch random quotes.
 - Add more social media sharing options.
 - Create a user interface for submitting user-generated quotes.
 - Improve accessibility and usability.
